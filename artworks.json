@@ -1,0 +1,34 @@
+{
+    "artworks": [
+        {
+            "title": "Mona Lisa",
+            "artist": "Leonardo da Vinci",
+            "year": 1503
+        },
+        {
+            "title": "The Last Supper",
+            "artist": "Leonardo da Vinci",
+            "year": 1498
+        },
+        {
+            "title": "Starry Night",
+            "artist": "Vincent van Gogh",
+            "year": 1889
+        },
+        {
+            "title": "The Persistence of Memory",
+            "artist": "Salvador Dalí",
+            "year": 1931
+        },
+        {
+            "title": "Sunflowers",
+            "artist": "Vincent van Gogh",
+            "year": 1888
+        },
+        {
+            "title": "The Scream",
+            "artist": "Edvard Munch",
+            "year": 1893
+        }
+    ]
+}

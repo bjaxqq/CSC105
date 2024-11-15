@@ -1,0 +1,20 @@
+1, Mia Johnson, 34, Stable, False
+2, Brian Lee, 41, Critical, True
+3, Olivia Brown, 26, , False
+4, Thomas Taylor, 50, Urgent, True
+5, Angela White, 29, Stable, False
+6, Eric Harris, , Critical, True
+7, Samantha Young, 37, Urgent, 
+8, Kevin Martinez, 54, Stable, True
+9, Rachel King, 32, Critical, True
+10, David Lee, , Stable, False
+11, Charlotte Wilson, 39, Urgent, True
+12, Benjamin Scott, 47, Stable, False
+13, Nicole Garcia, 30, Critical, True
+14, Daniel Adams, 28, Stable, False
+15, Emma Robinson, 36, Urgent, True
+16, Hannah Clark, 52, Stable, False
+17, Jacob Rodriguez, 45, Critical, True
+18, Lily Anderson, 38, Urgent, True
+19, Michael Hall, 31, Stable, False
+20, Isabella Johnson, 49, Critical, True
